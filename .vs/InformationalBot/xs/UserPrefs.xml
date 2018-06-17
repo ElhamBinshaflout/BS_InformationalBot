@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0CDB9F07-FEDD-4B67-9D48-46F244150CA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InformationalBot/Dialogs/ChildDialog1.cs">
+    <Files>
+      <File FileName="InformationalBot/Dialogs/ChildDialog1.cs" Line="11" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InformationalBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
